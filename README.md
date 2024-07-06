@@ -1,1 +1,2 @@
-# circuit-for-6-servo-motor
+here a link to sjow you the circuit for 6 servo motor 
+https://www.tinkercad.com/things/4Pnd7z57R6G-circuit-for-6-servo-motor 
